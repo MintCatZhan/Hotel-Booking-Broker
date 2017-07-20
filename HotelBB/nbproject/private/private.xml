@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/server/ServerHOPP.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/util/Constants.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/repository/impl/RoomInterfaceImpl.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/GUI/GUIForHotelBB.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/server/Server.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/server/HotelServer/WindsorServerRunner.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/Broker/Broker.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/Broker/BrokerHOPPClientMultiple.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/repository/impl/HotelInterfaceImpl.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/server/HotelServer/HiltonServerRunner.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/repository/impl/BookingIntefaceImpl.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/repository/impl/CustomerInterfaceImpl.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/Client/Client.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/Broker/BrokerHOPPClient.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/server/HotelServer/RegentServerRunner.java</file>
+            <file>file:/Users/YuanZhan/Desktop/HotelBB/HotelBB/src/Client/ClientHOPPImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
